@@ -1,0 +1,1 @@
+Collection of scripts that are shown in the slides, so that students do not have to copy them and for the tutors is better to show them on an IDE.
